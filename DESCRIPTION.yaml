@@ -2,7 +2,7 @@
 meta:
   name        : pets
   title       : Dogs and cats image classification using keras.
-  version     : 1.2.1
+  version     : 1.2.2
   display     : display
   languages   : R
   modeller    : CNN
@@ -14,7 +14,7 @@ meta:
       CRAN: magrittr, dplyr, caret, e1017, shiny, shinyjs, V8, devtools, httr
       github: rstudio/tfruns, rstudio/reticulate, rstudio/keras
     py: tensorflow, keras, Image
-  filename     : pool/main/p/pets/pets_1.2.1.mlm
+  filename     : pool/main/p/pets/pets_1.2.2.mlm
 commands:
   demo    : Apply the model to a supplied dataset of images of dogs and cats.
   print   : Print a textual summary of the model.
